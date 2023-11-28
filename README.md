@@ -1,1 +1,1 @@
-# ML_Contest1
+# Data Science GUI: Empowering Users with Python for Mathematical Research
